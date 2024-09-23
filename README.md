@@ -1,4 +1,4 @@
-
+Custom Hhooks are those which use js functions that use built in react hooks and make it reusabe logic in other components
 Here's a very basic example of a custom hook that toggles a boolean value (e.g., a light switch or showing/hiding an element).
 
 Example: useToggle Custom Hook
